@@ -1,0 +1,6 @@
+* Monkey Programming Language
+
+An implementation of an interpreter/compiler in Go based on:
+
+- https://interpreterbook.com/
+- https://compilerbook.com/
